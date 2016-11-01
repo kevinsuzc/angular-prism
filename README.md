@@ -1,14 +1,12 @@
 # angular-prism
 Usage:
-
-- Include prism.js and prism.css
-- Add "prism" attribute in the code tag.
-
+```
+bower install 
+```
 Example:
 
 ```
 <pre><code class="language-css">p { color: red }</code></pre>
-
 ```
 ## License
 MIT License.

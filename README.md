@@ -6,8 +6,10 @@ Usage:
 
 Example:
 
+```
 <pre><code class="language-css">p { color: red }</code></pre>
 
+```
 ## License
 MIT License.
 

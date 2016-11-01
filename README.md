@@ -5,9 +5,7 @@ bower install angular-prism --save
 ```
 ```
 angular
-    .module('yourModuleName', [
-        'angular-prism'
-    ])
+    .module('yourModuleName', ['angular-prism'])
 ```
 
 Example:

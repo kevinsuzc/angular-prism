@@ -1,0 +1,21 @@
+{
+  "name": "angular-prism",
+  "homepage": "https://github.com/kevinsuzc/angular-prism",
+  "authors": [
+    "Kevin Su"
+  ],
+  "description": "A simple directive for prism",
+  "main": "src/angular-prism.js",
+  "keywords": [
+    "prism",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

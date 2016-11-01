@@ -11,6 +11,10 @@
     "angular"
   ],
   "license": "MIT",
+  "dependencies": {
+    "angular": "1.x",
+    "prism": "1.x"
+  },
   "ignore": [
     "**/.*",
     "node_modules",

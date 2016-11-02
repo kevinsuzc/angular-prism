@@ -1,8 +1,13 @@
 # angular-prism
 Usage:
 ```
-bower install 
+bower install angular-prism --save
 ```
+```
+angular
+    .module('yourModuleName', ['angular-prism'])
+```
+
 Example:
 
 ```

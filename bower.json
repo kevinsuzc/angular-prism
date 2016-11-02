@@ -1,6 +1,7 @@
 {
   "name": "angular-prism",
   "homepage": "https://github.com/kevinsuzc/angular-prism",
+  "version": "0.0.2",
   "authors": [
     "Kevin Su"
   ],
